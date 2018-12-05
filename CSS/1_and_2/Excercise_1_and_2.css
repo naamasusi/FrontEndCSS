@@ -1,0 +1,30 @@
+body {
+    width: 600px;
+    position: absolute;
+    left: 25%;
+    background-image: url("connectwork.png");
+}
+h1 {
+    color: red;
+    text-transform: capitalize;
+}
+h3 {
+    color: red;
+}
+figcaption {
+    color: darkblue;
+}
+section {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12
+}
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+}
+li {
+    list-style: none;
+}
+p {
+    color: white;
+}
